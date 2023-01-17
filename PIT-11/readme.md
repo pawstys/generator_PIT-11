@@ -1,0 +1,1 @@
+W tym katalogu zostaną zapisane wygenerowane deklaracje podatkowe, które następnie można wczytać do formularza PDF przygotowanego przez Ministerstwo Finansów i ewentualnie wysłać za pomocą wtyczki e-Deklaracje
