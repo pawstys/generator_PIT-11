@@ -1,6 +1,9 @@
 # Wygenerowane deklaracje
 /PIT-11/*.xml
 
+#Arkusz stylów xsl
+PIT-11.xsl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
